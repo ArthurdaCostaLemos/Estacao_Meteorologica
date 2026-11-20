@@ -36,7 +36,7 @@ O firmware realiza a aquisição a cada 2,5 segundos. O backend valida as mensag
 
 ## Protótipo
 
-![Montagem da estação meteorológica em protoboard](Documentos/Imagens/png do protoboard)
+![Montagem da estação meteorológica em protoboard](Documentos/Imagens/Protótipo_PB.png)
 
 | Sensor | Grandeza | Conexão na ESP32 |
 |---|---|---|
