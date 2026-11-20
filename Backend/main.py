@@ -21,7 +21,7 @@ from slowapi.util import get_remote_address
 load_dotenv()
 
 # --- CONFIGURAÇÕES CARREGADAS DO AMBIENTE ---
-MQTT_BROKER = os.getenv("MQTT_BROKER", "172.20.10.6")
+MQTT_BROKER = os.getenv("MQTT_BROKER", "127.0.0.1")
 MQTT_PORT = int(os.getenv("MQTT_PORT", 1883))
 MQTT_TOPIC = os.getenv("MQTT_TOPIC", "estacoes/1/telemetria")
 
@@ -29,7 +29,7 @@ DB_CONFIG = {
     "host": os.getenv("DB_HOST", "127.0.0.1"),
     "port": int(os.getenv("DB_PORT", 3306)),
     "user": os.getenv("DB_USER", "root"),
-    "password": os.getenv("DB_PASSWORD", "Estacao2026@"),
+    "password": os.getenv("DB_PASSWORD", "SENHA_DATABASE"),
     "database": os.getenv("DB_NAME", "estacao_meteorologica"),
 }
 
