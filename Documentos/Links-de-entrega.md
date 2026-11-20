@@ -4,7 +4,7 @@
 |---|---|
 | Repositório público | [Código e documentação](https://github.com/ArthurdaCostaLemos/Estacao_Meteorologica) |
 | Vídeo técnico final | [Google Drive](link do vídeo no drive) |
-| Vídeos dos testes (CT01 e CT02) | [CT01 – DHT22](vídeo teste CT01) · [CT02 – Dashboard](vídeo teste CT02/1) · [CT02 – Backend](vídeo teste CT02/2) |
+| Vídeos dos testes (CT01 e CT02) | [CT01 – DHT22](vídeo teste CT01) · [CT02 – Dashboard](https://drive.google.com/file/d/1QA6h5mdb3fsU3ljLW3dawQoIvU-gtH86/view?usp=sharing) · [CT02 – Backend](vídeo teste CT02/2) |
 | Documentação técnica (PDF) | [Download do PDF](documentação link) |
 | Apresentação executiva | [PDF](pdf da apresentação) · [PowerPoint](pptx da apresentação) |
 | Montagem elétrica | [PDF](Esquemas/esquema eletrico pdf) · [Projeto Fritzing](../Fritzing/) |
