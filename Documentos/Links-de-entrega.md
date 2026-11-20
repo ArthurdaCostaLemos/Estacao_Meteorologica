@@ -7,7 +7,7 @@
 | Vídeos dos testes (CT01 e CT02) | [CT01 – DHT22](https://drive.google.com/file/d/1qfOrmgAjUG2O6l6WuTXDfgO6E9ntvme1/view?usp=sharing) · [CT02 – Dashboard](https://drive.google.com/file/d/1QA6h5mdb3fsU3ljLW3dawQoIvU-gtH86/view?usp=sharing) · [CT02 – Backend](https://drive.google.com/file/d/1LuOKGA8SUEUM9cJP42ETn0yh3UFG4XHv/view?usp=sharing) |
 | Documentação técnica (PDF) | [Download do PDF](documentação link) |
 | Apresentação executiva | [PDF](pdf da apresentação) · [PowerPoint](pptx da apresentação) |
-| Montagem elétrica | [PDF](Esquemas/esquema eletrico pdf) · [Projeto Fritzing](../Fritzing/) |
+| Montagem elétrica | [PDF](Esquemas/Esquema-eletrico.pdf) · [Projeto Fritzing](../Fritzing/) |
 | Evidências CT01-CT04 | [Procedimentos e registros](Guias/TESTES.md) |
 | Interface web | [Dashboard](https://estacao-b1874.web.app/) |
 
