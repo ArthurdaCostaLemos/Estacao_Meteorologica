@@ -13,7 +13,7 @@ A estação realiza o monitoramento local de temperatura, umidade, pressão, lum
 | Documentação técnica (PDF) | [Download do PDF](link_do PDF) |
 | Vídeos dos testes (CT01 e CT02) | [CT01 – DHT22](https://drive.google.com/file/d/1qfOrmgAjUG2O6l6WuTXDfgO6E9ntvme1/view?usp=sharing) · [CT02 – Dashboard](https://drive.google.com/file/d/1QA6h5mdb3fsU3ljLW3dawQoIvU-gtH86/view?usp=sharing) · [CT02 – Backend](https://drive.google.com/file/d/1LuOKGA8SUEUM9cJP42ETn0yh3UFG4XHv/view?usp=sharing) |
 | Apresentação executiva | [PDF](pdf da apresentação) · [PowerPoint](pptx da apresentação) |
-| Montagem no Fritzing e pinagem | [PDF do esquema](pdf do esquema) · [Projeto editável e imagens](Fritzing/) |
+| Montagem no Fritzing e pinagem | [PDF do esquema](Documentos/Esquemas/Esquema-elétrico.pdf) · [Projeto editável e imagens](Fritzing/) |
 | Registros dos testes | [Procedimentos e resultados CT01–CT04](Documentos/Guias/TESTES.md) |
 | Interface web | [Dashboard](link do site na web) |
 
