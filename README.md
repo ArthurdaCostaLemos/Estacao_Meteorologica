@@ -17,7 +17,7 @@ A estação realiza o monitoramento local de temperatura, umidade, pressão, lum
 | Registros dos testes | [Procedimentos e resultados CT01–CT04](Documentos/Guias/TESTES.md) |
 | Interface web | [Dashboard](link do site na web) |
 
-![Atualização das leituras e acionamento de aviso no dashboard](Documentos/Imagens/GIF-Dashboard.gif)
+![Atualização das leituras e acionamento de aviso no dashboard](Documentos/Imagens/GIF_Dashboard.gif)
 
 *Trecho de um teste funcional com atualização dos indicadores e acionamento de aviso associado à leitura do MQ-135.*
 
