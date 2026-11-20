@@ -253,10 +253,11 @@ app.add_middleware(
         "https://estacao-b1874.web.app",
         "https://estacao-b1874.firebaseapp.com",
         "http://localhost:8000",
+        "http://127.0.0.1:8000",
     ],
     allow_credentials=False,
-    allow_methods=["GET", "PUT", "OPTIONS"],
-    allow_headers=["Content-Type", "Authorization"],
+    allow_methods=["*"],
+    allow_headers=["*"],
 )
 
 
