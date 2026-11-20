@@ -15,7 +15,7 @@ A estação realiza o monitoramento local de temperatura, umidade, pressão, lum
 | Apresentação executiva | [PDF](pdf da apresentação) · [PowerPoint](pptx da apresentação) |
 | Montagem no Fritzing e pinagem | [PDF do esquema](Documentos/Esquemas/Esquema-elétrico.pdf) · [Projeto editável e imagens](Fritzing/) |
 | Registros dos testes | [Procedimentos e resultados CT01–CT04](Documentos/Guias/TESTES.md) |
-| Interface web | [Dashboard](link do site na web) |
+| Interface web | [Dashboard](https://estacao-b1874.web.app/) |
 
 ![Atualização das leituras e acionamento de aviso no dashboard](Documentos/Imagens/GIF_Dashboard.gif)
 
