@@ -5,11 +5,11 @@
 | Caso | Procedimento | Resultado registrado | Evidência |
 |---|---|---|---|
 | CT01 — DHT22 | Observar a leitura durante uma variação de temperatura | Variação de 22,5 °C a 23,6 °C, seguida de redução | [Inicial](../Evidencias/CT01/Temperatura-normal.png) · [Pico](../Evidencias/CT01/Temperatura-pico.png) |
-| CT02 — Comunicação | Interromper e restabelecer a rede | Indicação de ausência de dados recentes e retomada após reconexão | [Online](../Evidencias/CT02/CT02 conectado.png) · [Sem dados recentes](../Evidencias/CT02/CT02desconectado.png) |
-| CT03 — Validação | Publicar mensagem com temperatura de 150 °C | Rejeição no backend e zero registros inválidos na consulta do teste | [Envio](../evidencias/CT03/01-envio-temperatura-150C.png) · [Backend](../evidencias/CT03/02-backend-rejeicao-150C.png) · [MySQL](../evidencias/CT03/03-mysql-zero-registros-invalidos.png) |
-| CT04 — Localização | Consultar o cadastro da estação no mapa | Marcador exibido na região cadastrada para os testes | [Localização](../evidencias/CT04/01-localizacao-atual-aproximada.png) |
+| CT02 — Comunicação | Interromper e restabelecer a rede | Indicação de ausência de dados recentes e retomada após reconexão | [Online](../Evidencias/CT02/CT02-conectado.png) · [Sem dados recentes](../Evidencias/CT02/CT02-desconectado.png) |
+| CT03 — Validação | Publicar mensagem com temperatura de 150 °C | Rejeição no backend e zero registros inválidos na consulta do teste | [Envio](../Evidencias/CT03/CT03.1.png) · [Backend](../Evidencias/CT03/CT03.2.png) · [MySQL](../Evidencias/CT03/CT03.3.png) |
+| CT04 — Localização | Consultar o cadastro da estação no mapa | Marcador exibido na região cadastrada para os testes | [Localização](../Evidencias/CT04/CT04.png) |
 
-Os registros são de 8 de novembro de 2026. As gravações de dashboard e backend do CT02 correspondem a execuções separadas. A discussão dos resultados consta no [relatório técnico](https://github.com/ChicooGuk/estacao-meteorologica/releases/download/entrega-2026-11-10/Documentacao_Estacao_Meteorologica.pdf), e os vídeos integrais estão no Google Drive: [CT01 – DHT22](https://drive.google.com/file/d/1Sw3NbrNBVZOYQeTTtPc6pFnK_i4mDOZQ/view?usp=sharing), [CT02 – Dashboard](https://drive.google.com/file/d/1v4fIG_g7nGPLTjaUdp_5eMmhDr3yPDVp/view?usp=sharing) e [CT02 – Backend](https://drive.google.com/file/d/14fCxDULKh0-htDRenVgOXbbvcwPuFd3K/view?usp=sharing).
+Os registros são de 8 de novembro de 2026. As gravações de dashboard e backend do CT02 correspondem a execuções separadas. A discussão dos resultados consta no [relatório técnico](link do relatório pdf no github), e os vídeos integrais estão no Google Drive: [CT01 – DHT22](https://drive.google.com/file/d/1Sw3NbrNBVZOYQeTTtPc6pFnK_i4mDOZQ/view?usp=sharing), [CT02 – Dashboard](https://drive.google.com/file/d/1v4fIG_g7nGPLTjaUdp_5eMmhDr3yPDVp/view?usp=sharing) e [CT02 – Backend](https://drive.google.com/file/d/14fCxDULKh0-htDRenVgOXbbvcwPuFd3K/view?usp=sharing).
 
 ## Verificações automatizadas
 
