@@ -8,7 +8,7 @@
 - Vídeos dos testes (Google Drive): [CT01 – DHT22](https://drive.google.com/file/d/1qfOrmgAjUG2O6l6WuTXDfgO6E9ntvme1/view?usp=sharing) · [CT02 – Dashboard](https://drive.google.com/file/d/1QA6h5mdb3fsU3ljLW3dawQoIvU-gtH86/view?usp=sharing) · [CT02 – Backend](https://drive.google.com/file/d/1LuOKGA8SUEUM9cJP42ETn0yh3UFG4XHv/view?usp=sharing).
 - [Apresentação executiva em PDF](Documentos/Apresentacao/Estação-Meteorológica-Inteligente-com-ESP32.pdf).
 - [Apresentação editável](Documentos/Apresentacao/Estação-Meteorológica-Inteligente-com-ESP32.pptx).
-- [Vídeo de demonstração](Vídeo da apresentação).
+- [Vídeo de demonstração](https://drive.google.com/file/d/1TTKqBDP2_eWjfuOfl22yfjqWvLEvmMef/view?usp=sharing).
 - [Montagem no Fritzing e pinagem em PDF](Esquemas/Esquema-elétrico.png).
 - [Projeto editável e exportações do Fritzing](../Fritzing/).
 
